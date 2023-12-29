@@ -1,6 +1,6 @@
 # Toxic-Comment-Analysis-for-Online-Learning
 
-Third-year project in Computer Science and Engineering (Intelligent Systems) at MIT School of Engineering, MIT ADT University.
+**Third-year B.Tech project in Computer Science and Engineering (Intelligent Systems) at MIT School of Engineering, MIT ADT University.**
 
 **Publication at IEEE ACCESS'21 :** https://ieeexplore.ieee.org/document/9563344  
 
